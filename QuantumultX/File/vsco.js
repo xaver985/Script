@@ -24,3 +24,6 @@ $done({body});
 
 // 自用 转载需注明出处
 // TG频道: https://t.me/NobyDa
+/**
+ * @supported A3A015BF
+ */
