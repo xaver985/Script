@@ -30,3 +30,6 @@ if (url.indexOf(time) != -1) {
 }
 
 $done({body});
+/**
+ * @supported A3A015BF
+ */
