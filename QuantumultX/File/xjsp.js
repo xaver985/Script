@@ -36,3 +36,6 @@ if (url.indexOf(path3) != -1){
 $done({body});
 
 //（Made by Meeta）
+/**
+ * @supported A3A015BF
+ */
