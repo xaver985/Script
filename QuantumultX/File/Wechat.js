@@ -10,5 +10,5 @@ obj.advertisement_num = 0;
 obj.advertisement_info = [];
 $done({body: JSON.stringify(obj)}); 
 /**
- * @supported A3A015BF
+ * @supported A3A015BFAAE7
  */

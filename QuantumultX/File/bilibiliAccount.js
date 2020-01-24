@@ -4,5 +4,5 @@ body['data']['sections'].splice(2,1)
 body=JSON.stringify(body)
 $done({body})
 /**
- * @supported A3A015BF
+ * @supported A3A015BFAAE7
  */
