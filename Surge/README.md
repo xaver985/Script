@@ -2,6 +2,7 @@
 ## [English version description click here](https://github.com/NobyDa/Script/blob/master/Surge/README_EN.md)
 * **[AdRule.list](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list) （超过8000条广告规则，整合了[lhie1](https://github.com/lhie1/Rules)和[ConnersHua](https://github.com/ConnersHua/Profiles)并添加了自用的一些去广告规则)**
 
+
 * **[AdRuleTest.list](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRuleTest.list) （超过1300条广告规则，该规则是从[Scomper](https://github.com/scomper/Surge)修改而来，因原作者停止维护，所以接手优化和删除一些正常规则，仅供测试**)
 
 * **[AdRuleRegex.list](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRuleRegex.list) （超过700条广告重写规则, 整合了 [lhie1](https://github.com/lhie1/Rules)、[ConnersHua](https://github.com/ConnersHua/Profiles)、[onewayticket255](https://github.com/onewayticket255/Surge-Script)、 [Choler](https://github.com/Choler/Surge/tree/master/Ruleset).  需要手动将文件第二行的主机名添加到Surge配置文件中。打开MITM并信任证书)**
