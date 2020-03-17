@@ -8501,6 +8501,13 @@ DOMAIN-SUFFIX,bulldogcpi.com
 DOMAIN-SUFFIX,insurads.com
 DOMAIN-SUFFIX,juicyads.com
 DOMAIN-SUFFIX,wshtgame.com
+USER-AGENT,AVOS*
+URL-REGEX,https://www.zhihu.com/api/v4/mcn/
+URL-REGEX,https://api.zhihu.com/(ab|adx|xen|drama|fringe|zst|commercial|ad-style-service|market/popover|search/(top|tab|preset)|.*(guide|recommendations|extended|featured-comment-ad))
+AND,((USER-AGENT,osee2*), (NOT,((DOMAIN-SUFFIX,zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
+URL-REGEX,https://app.bilibili.com/x/v2/(splash|search/(defaultword|square))
+URL-REGEX,https://api.bilibili.com/x/v2/dm/advert
+AND,((USER-AGENT,bili*), (NOT,((DOMAIN-SUFFIX,bilibili.com))),(NOT,((DOMAIN-SUFFIX,hdslb.com))))
 IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,101.227.200.11/32,no-resolve
 IP-CIDR,101.227.200.28/32,no-resolve
